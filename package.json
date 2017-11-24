@@ -15,11 +15,18 @@
     "cities",
     "proxy"
   ],
-  "engines" : { "node" : ">=8.0.0" },
+  "engines": {
+    "node": ">=8.0.0"
+  },
   "author": "Gérard Rozsavolgyi",
   "license": "MIT",
   "bugs": {
     "url": "https://github.com/roza/my-openweathermap-api/issues"
   },
-  "homepage": "https://github.com/roza/my-openweathermap-api#readme"
+  "homepage": "https://github.com/roza/my-openweathermap-api#readme",
+  "dependencies": {
+    "http-proxy-agent": "^2.0.0",
+    "isomorphic-fetch": "^2.2.1",
+    "url": "^0.11.0"
+  }
 }
