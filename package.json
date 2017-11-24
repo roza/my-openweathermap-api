@@ -1,0 +1,25 @@
+{
+  "name": "openweathermap-api",
+  "version": "1.0.0",
+  "description": "Connect to OpenWeatherMap API with simple query on cities and optional proxy",
+  "main": "index.js",
+  "scripts": {
+    "test": "@todo"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/roza/my-openweathermap-api.git"
+  },
+  "keywords": [
+    "Openweathermap",
+    "cities",
+    "proxy"
+  ],
+  "engines" : { "node" : ">=8.0.0" },
+  "author": "Gérard Rozsavolgyi",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/roza/my-openweathermap-api/issues"
+  },
+  "homepage": "https://github.com/roza/my-openweathermap-api#readme"
+}
